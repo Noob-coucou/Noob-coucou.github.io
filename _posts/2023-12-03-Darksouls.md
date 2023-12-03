@@ -9,7 +9,7 @@ tags: Game RPG  # 标签
 
 # 页面横幅设置
 banner:
-  image: \assets\images\posts\2023-12-03-Darksouls  # 备用图像链接
+  image: /assets/images/posts/2023-12-03-Darksouls/image.jpg  # 备用图像链接
   opacity: 0.618  # 横幅透明度
   background: "#000"  # 横幅背景颜色
   height: "100vh"  # 横幅高度
