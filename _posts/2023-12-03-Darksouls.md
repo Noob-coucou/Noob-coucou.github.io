@@ -129,6 +129,8 @@ banner:
 
 这两个高难度的设计，换而言之便是黑暗之魂的 **“挑战”**，也就是地图和战斗。这两个元素是黑暗之魂的核心乐趣，在之后的系列游戏中，制作组也是针对这两方面进行了不同方向的尝试。当然，除此之外，黑暗之魂在游戏设计的合理性方面还有很多，包括联机系统与世界观的融合，游戏道具的文案等。在未来或许会继续扩充。
 
+![image](https://github.com/Noob-coucou/Noob-coucou.github.io/blob/master/assets/images/posts/2023-12-03-Darksouls/slice.png?raw=true)
+
 ### 火的传承
 
 黑暗之魂1算不上是最成功的一部魂，后有破圈的黑暗之魂3和年度最佳游戏的艾尔登法环，但黑暗之魂绝对是他们成功的基石。
@@ -159,6 +161,8 @@ banner:
 RPG游戏，到底是什么？在RPG发展的这么多年，ARPG,SRPG,TRPG，MMORPG,JRPG，有太多的方式去分类，去下定义，在其中也有备受好评的佳作，也有无人问津的粪作，做好RPG的标准到底是什么？谜底就在谜题上。
 
 就像推开净身小教会的那扇门一样，我们又回到了最初的问题：RPG为什么好玩？我们不断拆解的答案，是RPG的世界观和玩法，是黑暗之魂的战斗和地图。那这一切到底是什么？
+
+![image](https://github.com/Noob-coucou/Noob-coucou.github.io/blob/master/assets/images/posts/2023-12-03-Darksouls/World.png?raw=true)
 
 **世界**
 
